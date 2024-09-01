@@ -39,7 +39,7 @@ To install the necessary dependencies, run the following commands:
 2. Install Dependencies: Run the commands listed above to install all the necessary software.
 3. Run the App: Start the application by running the following command in your terminal:
 4. Run the command `npm start`.
-Access the App: Open your web browser and go to http://localhost:3000 to view the app.
+5. Access the App: Open your web browser and go to http://localhost:3000 to view the app.
 
 # Images:
 1. Login Page
