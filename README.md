@@ -43,16 +43,15 @@ Access the App: Open your web browser and go to http://localhost:3000 to view th
 
 # Images:
 1. Login Page
-![home_page](https://github.com/user-attachments/assets/5416f86f-b398-494f-a04b-a1bc1e69eb40)
+ ![login_page](https://github.com/user-attachments/assets/79a65b06-90ea-47f3-9d36-2b28de2e9c33)
 2. Main Page. 
 --Brief Details--
-a. Header represent the cuurent user who logged In with city.
-b. In right side Other user logged-In show total users who logged In this app.
-c. In Left side one drop down button where you add friend so once you click it add the user_name in friend list below drop down button.
-d. Suggestion friend means some one is mutual friend in your friend list that's why it showing suggestion friend."
-e. When you click the suggestion friend list it show how they are connected to each other in degree of separation details. 
-![login_page](https://github.com/user-attachments/assets/79a65b06-90ea-47f3-9d36-2b28de2e9c33)
-
+1. Header represent the cuurent user who logged In with city.
+2. In right side Other user logged-In show total users who logged In this app.
+3. In Left side one drop down button where you add friend so once you click it add the user_name in friend list below drop down button.
+4. Suggestion friend means some one is mutual friend in your friend list that's why it showing suggestion friend."
+5. When you click the suggestion friend list it show how they are connected to each other in degree of separation details.
+![home_page](https://github.com/user-attachments/assets/5416f86f-b398-494f-a04b-a1bc1e69eb40)
 
 # Summary
 This app is designed to help you visualize and expand your social network by understanding the connections between you and others.
