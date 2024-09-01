@@ -4,11 +4,11 @@
 The Friend Relationship App is a React web-based application designed to help users visualize their connections with friends through degrees of separation.
 The app allows users to:
 
-Login: Users can log in by providing their name, email, phone number, and city.
-View Friends: Once logged in, users can see a list of their friends.
-Add Friends: Users can add new friends from a dropdown list of other users who are not yet their friends.
-Suggested Friends: The app suggests friends based on mutual connections, making it easy to expand the user’s social circle.
-Degree of Separation: Users can select a suggested friend to view how they are connected through other friends, displayed as a "Degree of Separation."
+1. Login: Users can log in by providing their name, email, phone number, and city.
+2. View Friends: Once logged in, users can see a list of their friends.
+3. Add Friends: Users can add new friends from a dropdown list of other users who are not yet their friends.
+4. Suggested Friends: The app suggests friends based on mutual connections, making it easy to expand the user’s social circle.
+5. Degree of Separation: Users can select a suggested friend to view how they are connected through other friends, displayed as a "Degree of Separation."
 
 # How the App Works
 When you log in, the app checks if your details already exist. If not, it saves your information and logs you in.
@@ -29,10 +29,10 @@ To run this app, you will need to install the following software and libraries:
 
 # Installing Dependencies
 To install the necessary dependencies, run the following commands:
--> `npm install react react-dom`
--> `npm install react-router-dom`
--> `npm install bootstrap`
--> `npm install react-bootstrap`
+1. `npm install react react-dom`
+2. `npm install react-router-dom`
+3. `npm install bootstrap`
+4. `npm install react-bootstrap`
 
 # Getting Started
 1. Clone the Repository: Download the project files from the repository.
@@ -42,6 +42,16 @@ To install the necessary dependencies, run the following commands:
 Access the App: Open your web browser and go to http://localhost:3000 to view the app.
 
 # Images:
+1. Login Page
+![home_page](https://github.com/user-attachments/assets/5416f86f-b398-494f-a04b-a1bc1e69eb40)
+2. Main Page. 
+--Brief Details--
+a. Header represent the cuurent user who logged In with city.
+b. In right side Other user logged-In show total users who logged In this app.
+c. In Left side one drop down button where you add friend so once you click it add the user_name in friend list below drop down button.
+d. Suggestion friend means some one is mutual friend in your friend list that's why it showing suggestion friend."
+e. When you click the suggestion friend list it show how they are connected to each other in degree of separation details. 
+![login_page](https://github.com/user-attachments/assets/79a65b06-90ea-47f3-9d36-2b28de2e9c33)
 
 
 # Summary
