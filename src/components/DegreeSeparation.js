@@ -43,7 +43,7 @@ const DegreeSeparation = ({ currentUser, selectedFriend }) => {
 
       if (path) {
         const pathNames = path.map(email => usersList.find(user => user.email === email)?.name || email);
-        setRelationshipPath(pathNames.join(' is friend of '));
+        setRelationshipPath(pathNames.join(' > '));
       } else {
         setRelationshipPath('No connection found');
       }
