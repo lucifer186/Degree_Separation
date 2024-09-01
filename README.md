@@ -46,6 +46,7 @@ Access the App: Open your web browser and go to http://localhost:3000 to view th
  ![login_page](https://github.com/user-attachments/assets/79a65b06-90ea-47f3-9d36-2b28de2e9c33)
 2. Main Page. 
 --Brief Details--
+
 1. Header represent the cuurent user who logged In with city.
 2. In right side Other user logged-In show total users who logged In this app.
 3. In Left side one drop down button where you add friend so once you click it add the user_name in friend list below drop down button.
